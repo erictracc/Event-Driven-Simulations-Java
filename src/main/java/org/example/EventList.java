@@ -17,7 +17,7 @@ class EventList {
         public ListItem next;
     }
 
-    private ListItem firstEvent;
+    ListItem firstEvent;
 
     /**
      * Constructor.
